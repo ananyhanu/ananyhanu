@@ -1,8 +1,10 @@
-Hi 👋, I'm Anany Hanu Vaishnav
+💼 Associate Data Engineer | 2.5+ Yrs Experience
+🧩 Specializing in SQL, Snowflake, DBT, IICS, Matillion, Talend, Power BI
 
-A passionate Data Analyst
-
-👨‍💻 I’m currently learning Data Analytics tools, techniques, Cloud technologies
+Turning complex data into clear insights.
+Crafting scalable pipelines, optimizing performance, and bridging the gap between raw data & real decisions.
+Driven by curiosity, built on discipline, and powered by caffeine ☕💡
+"Code neat. Query deep. Think impact."
 
 📫 How to reach me ananyhanuvaishnav01@gmail.com
 <!---
